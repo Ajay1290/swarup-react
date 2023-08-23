@@ -1,0 +1,23 @@
+.sw-card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.sw-card-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.sw-card-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.sw-card-content {
+    font-size: 16px;
+    color: #555;
+}

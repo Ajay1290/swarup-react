@@ -1,0 +1,20 @@
+/* SWSelect.css */
+
+.sw-select {
+    margin-bottom: 20px;
+}
+
+.sw-select-label {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.sw-select-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}

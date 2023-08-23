@@ -1,0 +1,16 @@
+/* SWSlider.css */
+
+.sw-slider {
+    display: flex;
+    align-items: center;
+}
+
+.sw-slider-input {
+    flex: 1;
+}
+
+.sw-slider-value {
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}

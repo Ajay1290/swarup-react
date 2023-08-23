@@ -1,0 +1,30 @@
+/* SWAlert.css */
+
+.sw-alert {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+
+.sw-alert-success {
+    background-color: #28a745;
+}
+
+.sw-alert-warning {
+    background-color: #ffc107;
+}
+
+.sw-alert-error {
+    background-color: #dc3545;
+}
+
+.sw-alert-icon {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.sw-alert-message {
+    font-size: 16px;
+}

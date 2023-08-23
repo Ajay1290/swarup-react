@@ -1,0 +1,19 @@
+/* SWTooltip.css */
+
+.sw-tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.sw-tooltip-content {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 200px;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
